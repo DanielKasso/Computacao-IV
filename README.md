@@ -1,1 +1,2 @@
-# Computacao-IV
+# Computação IV
+Demonstração de programação paralela 
