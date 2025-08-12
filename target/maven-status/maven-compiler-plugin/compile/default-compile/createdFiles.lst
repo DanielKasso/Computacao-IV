@@ -1,0 +1,8 @@
+edu\instic\comp4\concorrenciademo\ArrayPartilhado.class
+edu\instic\comp4\concorrenciademo\produtorconsumidor\Produtor.class
+edu\instic\comp4\concorrenciademo\produtorconsumidor\Consumidor.class
+edu\instic\comp4\concorrenciademo\produtorconsumidor\BufferSincronizado.class
+edu\instic\comp4\concorrenciademo\ConcorrenciaDemo.class
+edu\instic\comp4\concorrenciademo\ArrayEscritor.class
+edu\instic\comp4\concorrenciademo\produtorconsumidor\Buffer.class
+edu\instic\comp4\concorrenciademo\produtorconsumidor\BufferSincronizadoDemo.class
